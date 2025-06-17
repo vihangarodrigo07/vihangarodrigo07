@@ -15,6 +15,7 @@ I love building things! From web applications to enterprise solutions, I'm alway
 ✔️ **Salon Appointment Booking System** - User Management & Authentication  
 ✔️ **Student Management System** - Java GUI + MySQL + Jasper Reports  
 ✔️ **Garage Management System** - C# + .NET Framework GUI + MS SQL + Crystal Reports  
+✔️ **School Management System** - C#  + MS SQL + Crystal Reports  
   
 ---
 
