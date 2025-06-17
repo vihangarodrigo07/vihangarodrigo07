@@ -6,15 +6,15 @@
 ## 💻 About Me  
 I love building things! From web applications to enterprise solutions, I'm always exploring new technologies and creating efficient, scalable applications.  
 
-- 🔹 **Tech Stack:** Java | Spring Boot | MySQL | REST APIs | JavaFX | Maven  
-- 🔹 **Currently Working On:** 🚗 Driver Service & 📚 Library Management System  
-- 🔹 **Interests:** Software Architecture, Backend Development, and AI-driven applications  
+- 🔹 **Tech Stack:** Java | Spring Boot | MySQL | REST APIs | JavaFX | Maven | MS SQL | C# | HTML | CSS | JS
+- 🔹 **Interests:** Software Architecture, Backend Development, and AI-driven applications, Web App UI Designing
 
 ---
 
 ## 📌 Projects  
 ✔️ **Salon Appointment Booking System** - User Management & Authentication  
-✔️ **Employee Management System** - Java GUI + MySQL + Jasper Reports  
+✔️ **Student Management System** - Java GUI + MySQL + Jasper Reports  
+✔️ **Garage Management System** - C# + .NET Framework GUI + MS SQL + Crystal Reports  
   
 ---
 
