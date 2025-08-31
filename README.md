@@ -41,7 +41,7 @@ Enhancing my skills in **distributed systems, microservices, and cloud computing
 
 ## 📫 Let's Connect!  
 📧 **Email:** [vihangarodrigo07@gmail.com](mailto:vihangarodrigo07@gmail.com)  
-🔗 **LinkedIn:** [Vihanga Rodrigo](https://www.linkedin.com/in/vihanga-rodrigo-1144a4341)  
+🔗 **LinkedIn:** [Vihanga Rodrigo](https://www.linkedin.com/in/vihanga-rodrigo)  
 
 ---
 
